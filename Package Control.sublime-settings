@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoPEP8",
+		"Boxy Theme",
+		"Git",
+		"HexViewer",
+		"Package Control",
+		"Predawn",
+		"Python Debugger",
+		"SFTP",
+		"Status Bar Time",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Virtualenv"
+	]
+}
